@@ -1,0 +1,10 @@
+Compound class names not permitted
+
+css selector - [class='btn btn-lg btn-inverse btn-block dropdown-toggle']
+
+xpath - //div[@class='dropdown d-grid']//i[@class='fa-solid fa-cart-shopping']
+
+//a[@href='https://auto.pragmatic.bg/index.php?route=checkout/checkout&language=en-gb'] 
+
+
+
